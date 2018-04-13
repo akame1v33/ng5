@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+/*p {
+	color:#fff;
+	font-weight:700;
+	line-height:25px;
+	background-color:#666;
+	padding:10px 24px;
+}*/
+
+.container {
+	display:grid;
+	grid-template-columns: 50% auto;
+}
+body {
+	background-color:#333;
+	color:#FFF;
+}
